@@ -35,3 +35,8 @@ button {
     transition: 2s;
     border-radius: 25px;
 }
+
+button:hover {
+  background-color: black;
+  color: white;
+}
